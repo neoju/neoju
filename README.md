@@ -2,10 +2,6 @@
 
 ⚡ Fun fact: I'm lazy
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neoju) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neo01796@gmail.com)
-
 # 💻 Tech Stack
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,8 +35,7 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=neoju&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=neoju&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=neoju&theme=catppuccin_mocha&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neoju&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
@@ -48,5 +43,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-M ( <https://gprm.itsvg.in> ) -->
